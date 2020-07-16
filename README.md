@@ -36,7 +36,7 @@ These are the following conditions for the development:
 * Use a **proper structure** to define the different path for the API endpoints 
 * The use of ESLint or other linter is optional.
 * The database could be **relational or NoSQL**, it's up to you. The use of ORM is optional too.
-* The database doesn't need to be presented. But the model should be represented in some wat. It could be in the form of ORM configuration or at least a minimal documentation or example of some of the entities.
+* The database doesn't need to be presented. But the model should be represented in some way. It could be in the form of ORM configuration or at least a minimal documentation or example of some of the entities.
 
 ## Presentation
 
