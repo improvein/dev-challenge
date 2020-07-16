@@ -37,4 +37,9 @@ These are the following conditions for the development:
 * The database could be **relational or NoSQL**, it's up to you. The use of ORM is optional too.
 * The database doesn't need to be presented. But the model should be represented in some wat. It could be in the form of ORM configuration or at least a minimal documentation or example of some of the entities.
 
+## Presentation
+
+The result of this challeng should be presented as a GitHub or GitLab public repository.
+Please add some minimal documentation (in the form of a README file) describing how to run the project and if there is any requirement or consideration to do so.
+
 Let's code 💻!
