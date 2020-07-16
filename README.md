@@ -22,7 +22,7 @@ Entities to consider:
 * Actor<br/>
   Can be on different movies and tv shows.
 * Director<br/>
-  Can direct many movies and specific episodores of tv shows.
+  Can direct many movies and specific episodes of tv shows.
 
 Use your common sense (or imagination 😉) to define the descriptive attributes/properties of each entity. For example, name or genre.
 
