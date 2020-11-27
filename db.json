@@ -1,0 +1,222 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "name": "Kiss",
+      "genreCode": "hard-rock",
+      "year": 1973,
+      "country": "United States",
+      "members": [
+        { "name": "Paul Stanley" },
+        { "name": "Gene Simmons" },
+        { "name": "Ace Frehley" },
+        { "name": "Peter Criss" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Aerosmith",
+      "genreCode": "hard-rock",
+      "year": 1970,
+      "country": "United States",
+      "members": [
+        { "name": "Steven Tyler" },
+        { "name": "Tom Hamilton" },
+        { "name": "Joe Perry" },
+        { "name": "Brad Whitford" },
+        { "name": "Joey Kramer" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Beatles",
+      "genreCode": "rock-roll",
+      "year": 1960,
+      "country": "United Kingdom",
+      "members": [
+        { "name": "John Lennon" },
+        { "name": "Paul McCartney" },
+        { "name": "George Harrison" },
+        { "name": "Ringo Starr" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Angra",
+      "genreCode": "power-metal",
+      "year": 1991,
+      "country": "Brazil",
+      "members": [
+        { "name": "Andre Matos" },
+        { "name": "Rafael Bittencourt" },
+        { "name": "Kiko Loureiro" },
+        { "name": "Luís Mariutti" },
+        { "name": "Ricardo Confessori" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Metallica",
+      "genreCode": "heavy-metal",
+      "year": 1981,
+      "country": "United States",
+      "members": [
+        { "name": "James Hetfield" },
+        { "name": "Lars Ulrich" },
+        { "name": "Kirk Hammett" },
+        { "name": "Robert Trujillo" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Iron Maiden",
+      "genreCode": "heavy-metal",
+      "year": 1975,
+      "country": "United Kingdom",
+      "members": [
+        { "name": "Bruce Dickinson" },
+        { "name": "Steve Harris" },
+        { "name": "Dave Murray" },
+        { "name": "Adrian Smith" },
+        { "name": "Nicko McBrain" },
+        { "name": "Janick Gers" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cradle of Filth",
+      "genreCode": "black-metal",
+      "year": 1991,
+      "country": "United Kingdom",
+      "members": [
+        { "name": "Dani Filth" },
+        { "name": "Martin 'Marthus' Škaroupka" },
+        { "name": "Daniel Firth" },
+        { "name": "Richard Shaw" },
+        { "name": "Marek 'Ashok' Šmerda" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Within Temptation",
+      "genreCode": "goth-metal",
+      "year": 1996,
+      "country": "Netherlands",
+      "members": [
+        { "name": "Sharon den Adel" },
+        { "name": "Jeroen van Veen" },
+        { "name": "Ruud Jolie" },
+        { "name": "Martijn Spierenburg" },
+        { "name": "Mike Coolen" },
+        { "name": "Stefan Helleblad" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Queen",
+      "genreCode": "rock",
+      "year": 1970,
+      "country": "United Kingdom",
+      "members": [
+        { "name": "Freddie Mercury" },
+        { "name": "Brian May" },
+        { "name": "Roger Taylor" },
+        { "name": "John Deacon" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pearl Jam",
+      "genreCode": "grunge",
+      "year": 1990,
+      "country": "United States",
+      "members": [
+        { "name": "Eddie Vedder" },
+        { "name": "Mike McCready" },
+        { "name": "Stone Gossard" },
+        { "name": "Jeff Ament" },
+        { "name": "Matt Cameron" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Rhapsody of Fire",
+      "genreCode": "power-metal",
+      "year": 1995,
+      "country": "Italy",
+      "members": [
+        { "name": "Luca Turilli" },
+        { "name": "Fabio Lione" },
+        { "name": "Patrice Guers" },
+        { "name": "Alex Staropoli" },
+        { "name": "Alex Holzwarth" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dream Theater",
+      "genreCode": "progressive-metal",
+      "year": 1985,
+      "country": "United States",
+      "members": [
+        { "name": "John Petrucci" },
+        { "name": "John Myung" },
+        { "name": "James LaBrie" },
+        { "name": "Jordan Rudess" },
+        { "name": "Mike Portnoy" }
+      ]
+    }
+  ],
+  "genre": [
+    { "code": "rock", "name": "Rock" },
+    { "code": "rock-roll", "name": "Rock & Roll" },
+    { "code": "hard-rock", "name": "Hard Rock" },
+    { "code": "grunge", "name": "Grunge" },
+    { "code": "heavy-metal", "name": "Heavy Metal" },
+    { "code": "power-metal", "name": "Power Metal" },
+    { "code": "black-metal", "name": "Black Metal" },
+    { "code": "progressive-metal", "name": "Progressive Metal" }
+  ],
+  "albums": [
+    { "id": 1, "bandId": 12, "name": "Images and Words", "year": 1992 },
+    { "id": 1, "bandId": 12, "name": "Awake", "year": 1994 },
+    {
+      "id": 1,
+      "bandId": 12,
+      "name": "Metropolis Pt. 2: Scenes from a Memory",
+      "year": 1999
+    },
+    { "id": 1, "bandId": 1, "name": "Hotter than Hell", "year": 1974 },
+    { "id": 1, "bandId": 1, "name": "Lick It Up", "year": 1983 },
+    { "id": 1, "bandId": 1, "name": "Crazy Nights", "year": 1987 },
+    { "id": 1, "bandId": 1, "name": "Psycho Circus", "year": 1998 },
+    { "id": 1, "bandId": 2, "name": "Aerosmith", "year": 1973 },
+    { "id": 1, "bandId": 2, "name": "Pump", "year": 1989 },
+    { "id": 1, "bandId": 2, "name": "Get a Grip", "year": 1993 },
+    {
+      "id": 1,
+      "bandId": 11,
+      "name": "Symphony of Enchanted Lands",
+      "year": 1998
+    },
+    { "id": 1, "bandId": 11, "name": "Dawn of Victory", "year": 2000 },
+    { "id": 1, "bandId": 11, "name": "Power of the Dragonflame", "year": 2002 },
+    { "id": 1, "bandId": 3, "name": "A Hard Day's Night", "year": 1964 },
+    { "id": 1, "bandId": 3, "name": "Help!", "year": 1965 },
+    {
+      "id": 1,
+      "bandId": 3,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967
+    },
+    { "id": 1, "bandId": 4, "name": "Angels Cry", "year": 1992 },
+    { "id": 1, "bandId": 4, "name": "Holy Land", "year": 1996 },
+    { "id": 1, "bandId": 4, "name": "Rebirth", "year": 2001 },
+    { "id": 1, "bandId": 8, "name": "Mother Earth", "year": 2000 },
+    { "id": 1, "bandId": 8, "name": "The Heart of Everything", "year": 2007 },
+    { "id": 1, "bandId": 8, "name": "Hydra", "year": 2014 },
+    { "id": 1, "bandId": 6, "name": "The Number of the Beast", "year": 1982 },
+    { "id": 1, "bandId": 6, "name": "Somewhere in Time", "year": 1986 },
+    { "id": 1, "bandId": 6, "name": "Fear of the Dark", "year": 1992 }
+  ]
+}
