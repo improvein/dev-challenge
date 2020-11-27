@@ -14,7 +14,7 @@ The website has to contain the following pages/features:
 
 ### Model & API
 
-This is the API url (using My JSON Server):<br/>
+This is the API URL (using [My JSON Server](https://my-json-server.typicode.com/)):<br/>
 https://my-json-server.typicode.com/improvein/dev-challenge
 
 You can check the documentation for "JSON Server" to see how to interact with the API via filters, pagination, etc:<br/>
