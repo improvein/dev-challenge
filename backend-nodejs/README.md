@@ -18,7 +18,7 @@ Entities to consider:
 * Movie<br/>
   Has many actors, but one director.
 * TV Show<br/>
-  Has many actors, but one director. It also has seasons and episdores inside each of one.
+  Has many actors, but one director. It also has seasons and episodes inside each of one.
 * Actor<br/>
   Can be on different movies and tv shows.
 * Director<br/>
