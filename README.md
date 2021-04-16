@@ -6,6 +6,8 @@ In this repo you will find some development challenges to test your coding (and 
 
 [Node.js](https://github.com/improvein/dev-challenge/tree/master/backend-nodejs)
 
+[PHP](https://github.com/improvein/dev-challenge/tree/master/backend-php)
+
 ## Front-end
 
 [React](https://github.com/improvein/dev-challenge/tree/master/frontend-react)
