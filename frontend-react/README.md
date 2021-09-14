@@ -8,7 +8,7 @@ The website has to contain the following pages/features:
 * Login/authentication page. The rest of the pages have to be behind this "authorization wall".
 * List and navigate bands
   Filter and sorting should be enabled.
-* View information of a specific band, including albums.
+* View information of a specific band, including albums and members.
 * Logout
 
 
