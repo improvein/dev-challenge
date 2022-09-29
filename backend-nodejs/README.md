@@ -29,7 +29,7 @@ Use your common sense (or imagination 😉) to define the descriptive attributes
 ## Tech Requirements
 
 These are the following conditions for the development:
-* The code should be using **Node.js 12 or superior**.
+* The code should be using **Node.js 14 or superior**.
 * The code could be written in **Javascript or Typescript**.
 * All the code and comments should be written in **english**.
 * Use a **proper naming conventions** and standards when defining the structure of the project and the name of variables, functions, etc.
