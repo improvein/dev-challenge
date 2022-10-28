@@ -6,7 +6,7 @@ This challenge aims to evaluate basic skills in Node.js development, and a bit o
 
 The API has to fulfill the following conditions:
 * Endpoints for authentication using JWT.<br/>
-  Also an endpoint for refreshing the JWT access token.
+  Include an endpoint for refreshing the JWT access token.
 * Endpoint for retrieving movies.<br/>
   It should be allowed to filter and sort by some field.
 * Endpoint for retrieving the information (director included) of a specific episode of a TV Show
