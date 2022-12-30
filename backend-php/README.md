@@ -32,8 +32,8 @@ These are the following conditions for the development:
 * The code should be using **PHP 7 or superior**.
 * All the code and comments should be written in **english**.
 * Use a **proper naming conventions** and standards when defining the structure of the project and the name of variables, functions, etc.
-* Use a **proper structure** to define the different path for the API endpoints
-* Use a framework like Symfony, Laravel, Lumen or any other that you consider appropriate
+* Use a **proper structure** to define the different path for the API endpoints.
+* Use a framework like Symfony, Laravel, Lumen, CodeIgniter, or any other that you consider appropriate.
 * The use of a linter is optional.
 * The database could be **relational or NoSQL**, it's up to you. The use of ORM is optional too.
 * The database doesn't need to be presented. But the model should be represented in some way. It could be in the form of ORM configuration or at least a minimal documentation or example of some of the entities.
