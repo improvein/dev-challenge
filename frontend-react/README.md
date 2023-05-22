@@ -42,7 +42,7 @@ These are the following conditions for the development:
 
 ## Presentation
 
-The result of this challenge should be presented as a GitHub or GitLab public repository.<br/>
+The result of this challenge should be presented as a GitHub or GitLab **private** repository, giving access to the person that contacted you.<br/>
 Please add some minimal documentation (in the form of a README file) describing how to build and/or run the project and if there is any requirement or consideration to do so.
 
 Oh, and please don't fork this repo in order to create your own. That way other people trying to complete this challenge won't be able to see solutions to it 😆.
