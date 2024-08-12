@@ -32,7 +32,7 @@ You can check the API to see what models are supported. But here is a brief desc
 ## Tech Requirements
 
 These are the following conditions for the development:
-* The code should be using **React 16.13 or superior**.
+* The code should be using **React 18 or superior**.
 * The code could be written in **Javascript or Typescript**.
 * All the code and comments should be written in **english**.
 * Use a **proper naming conventions** and standards when defining the structure of the project and the name of variables, functions, etc.
